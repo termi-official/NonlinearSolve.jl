@@ -1,7 +1,7 @@
 name = "NonlinearSolveBase"
 uuid = "be0214bd-f91f-a760-ac4e-3421ce2b2da0"
-authors = ["Avik Pal <avikpal@mit.edu> and contributors"]
 version = "2.10.0"
+authors = ["Avik Pal <avikpal@mit.edu> and contributors"]
 
 [deps]
 ADTypes = "47edcb42-4c32-4615-8424-f2b9edc5f35b"
@@ -74,7 +74,7 @@ ForwardDiff = "0.10.36, 1"
 InteractiveUtils = "<0.0.1, 1"
 LineSearch = "0.1.4"
 LinearAlgebra = "1.10"
-LinearSolve = "3.46"
+LinearSolve = "3.46, 5"
 Markdown = "1.10"
 MaybeInplace = "0.1.4"
 Mooncake = "0.4"
